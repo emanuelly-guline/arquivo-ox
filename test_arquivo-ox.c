@@ -1,4 +1,5 @@
 #include <assert.h>
+#include "function_manu.c"
 
 int manu(char c);
 
