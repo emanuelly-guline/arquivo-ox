@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "function_manu.c"
 
 int manu(char c);
 void gravarArquivo(char matriz[3][3], char nomeArquivo[]);
